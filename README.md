@@ -16,5 +16,5 @@ Here are useful links :
 
 Lightpaper available [here](https://github.com/TheCryptoGambit/EM_Meme_Token/blob/main/emmt-lightpaper-v1.pdf)
 
-![alt text](https://github.com/TheCryptoGambit/EM_MemeToken/blob/main/elonyeah.png?raw=true)
+![alt text](https://github.com/TheCryptoGambit/EM_MemeToken/blob/main/elonyeah.jpg?raw=true)
 
