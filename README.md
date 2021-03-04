@@ -4,7 +4,7 @@
 Follow us on :
 - [Twitter](https://twitter.com/elonmmt)
 - [Telegram](http://t.me/elonmmt)
-- Website is coming
+- [Website](https://emmtoken.com)
 
 Here are useful links :
 - Contract : [0x37f74f525e7bda86aec46fbbedad806d58de1c9b](https://bscscan.com/address/0x37f74f525e7bda86aec46fbbedad806d58de1c9b)
@@ -14,7 +14,7 @@ Here are useful links :
 - [ChartexPro](https://www.chartex.pro/?symbol=BSC_PANCAKESWAP%3AELONMUSK%2FWBNB.0x7435Ee39FAB5c7052A2127e8EA9f7b17D41652f5&interval=30&theme=Dark)
 
 
-Lightpaper available [here](https://github.com/TheCryptoGambit/EM_Meme_Token/blob/main/emmt-lightpaper-v1.pdf)
+Lightpaper available [here](https://github.com/TheCryptoGambit/EM_Meme_Token/blob/main/EMMT%20Lightpaper%20v2.pdf)
 
 ![alt text](https://github.com/TheCryptoGambit/EM_Meme_Token/blob/main/elonyeah.jpg?raw=true)
 
