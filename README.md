@@ -3,7 +3,7 @@
 
 Follow us on :
 - [Twitter](https://twitter.com/elonmmt)
-- Telegram : [Annoucements](http://t.me/elonmmt) - [Community](http://t.me/emmtcommunity)
+- Telegram : [Announcements](http://t.me/elonmmt) - [Community](http://t.me/emmtcommunity)
 - [Website](https://emmtoken.com)
 - [Medium](https://emmtoken.medium.com)
 - [Reddit](https://www.reddit.com/user/EMMToken)
@@ -19,4 +19,7 @@ TOKENOMICS : 10'000'000.
 🐳 100% supplied in the PancakeSwap pool ([txid](https://bscscan.com/tx/0xd088f42b617f6f9537738e67931d20f9f4c2dcd134b552ded77aec2709706785))
 🔥 v1LP tokens burned ([txid](https://bscscan.com/tx/0x05f7ed6a4e1529082aec0b5b0a20fa229730306ac61d1174a4bffc24014991ef))
 
+
+
 ![alt text](https://github.com/TheCryptoGambit/EM_Meme_Token/blob/main/captain_musk1.webp?raw=true)
+Design : Ilya Shapko — https://dribbble.com/Shapko
